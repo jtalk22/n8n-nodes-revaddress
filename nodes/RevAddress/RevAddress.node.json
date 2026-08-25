@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-revaddress",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/jtalk22/n8n-nodes-revaddress?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://revaddress.com/docs/"
+			}
+		]
+	}
+}
